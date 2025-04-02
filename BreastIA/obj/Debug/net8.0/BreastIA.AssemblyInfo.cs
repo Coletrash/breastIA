@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreastIA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b32ba556e7d5d6d95115b69faf49c1bd95e5e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d15fc076ff45ea0b838c6ae810a8fa344999ef89")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreastIA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreastIA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

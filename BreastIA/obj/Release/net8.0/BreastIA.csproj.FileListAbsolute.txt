@@ -1,0 +1,8 @@
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.AssemblyInfoInputs.cache
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.AssemblyInfo.cs
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel\Downloads\Breast IA\BreastIA\obj\Release\net8.0\BreastIA.sourcelink.json
