@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using BreastIA.Models;
 
-namespace TuProyecto.Data 
+namespace BreastIA.Data
 {
     public class ApplicationDbContext : DbContext
     {
@@ -8,8 +9,7 @@ namespace TuProyecto.Data
             : base(options)
         { }
 
-        // Defimor los DbSet para cada tabla en la base de datos
-        public DbSet<Usuario> Usuarios { get; set; }
-        // Agrega más segun se vea necesario
+        // Definimos los DbSet para cada tabla en la base de datos
+        public DbSet<User> Users { get; set; }
     }
 }
